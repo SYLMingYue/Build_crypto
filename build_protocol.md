@@ -39,7 +39,7 @@ UI做的不错
 Op官方推的任务平台
 
 ## useful defi protocol
-### 1 tarot[https://www.tarot.to/]
+### 1 [tarot](https://www.tarot.to/)
 提供可靠的流动性挖矿地址，且其reinvest功能可增加交互txs
 
 
@@ -49,5 +49,5 @@ Op官方推的任务平台
 
 
 ## domain
-### 1[starkdoamin](https://www.starknet.id/)
+### 1 [starkdoamin](https://www.starknet.id/)
 starknet上的域名服务，应该已经接近通知。未发币，但画风土狗
