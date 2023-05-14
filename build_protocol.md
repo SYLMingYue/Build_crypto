@@ -26,6 +26,22 @@ starknet上的swap工具，未发币
 starknet上的swap工具，未发币，有融资
 
 
+## Odesy
+### 1 [galxe](https://galxe.com/campaigns)
+奥德赛老大，已发币
+### 2 [layer3](https://layer3.xyz/quests)
+常用的任务平台，未发币
+### 3 [rabbithole](https://rabbithole.gg/)
+有人气的任务平台
+### 4 [quest3](https://app.questn.com/explore)
+UI做的不错
+### 5 [clique](https://clique.social/)
+Op官方推的任务平台
+
+## useful defi protocol
+### 1 tarot[https://www.tarot.to/]
+提供可靠的流动性挖矿地址，且其reinvest功能可增加交互txs
+
 
 ## NFTmarketplace
 ### 1 [mintsquare](https://mintsquare.io/zksync)
